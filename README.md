@@ -1,6 +1,8 @@
 # zoo
-a list of animals file (testing github)
+A list of zoo animal files
 
-## Category
-* Reptile
-* Mummles
+## categories of animals
+* Reptiles
+* Mammals
+* Insects
+* Birds
